@@ -3,7 +3,7 @@
 Welcome! On this site you will find all information about the European Workshop on Reinforcement Learning (EWRL) series.
 
 <div style="position: absolute; top: 10px; right: 10px;">
-    <img src="png-transparent-eu-flag-icon-thumbnail.png" alt="EWRL Logo" style="width: 100px; height: auto;">
+    <img src="raf,750x1000,075,t,FFFFFF-97ab1c12de.jpg" alt="EWRL Logo" style="width: 100px; height: auto;">
 </div>
 
 
