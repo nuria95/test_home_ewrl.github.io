@@ -12,7 +12,6 @@ This website is intended as a replacement of the [historical EWRL website](https
 [EWRL15, Milan, 2022](https://ewrl.wordpress.com/past-ewrl/ewrl15-2022/)  
 [EWRL14, Lille, 2018](https://ewrl.wordpress.com/past-ewrl/ewrl14-2018/)  
 [EWRL13, Barcelona, 2016](https://ewrl.wordpress.com/past-ewrl/ewrl13-2016/) 
-<br>
 
 [EWRL12, Lille, 2015](https://ewrl.wordpress.com/past-ewrl/ewrl12-2015/) 
 
