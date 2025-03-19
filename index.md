@@ -1,11 +1,9 @@
 ## Test Euro Workshop on Reinforcement Learning
 
-Welcome! On this site you will find all information about the European Workshop on Reinforcement Learning (EWRL) series.
-
-<div style="position: absolute; top: 10px; right: 10px;">
+<div style="position: fixed; top: 10px; left: 10px;">
     <img src="raf,750x1000,075,t,FFFFFF-97ab1c12de.jpg" alt="EWRL Logo" style="width: 100px; height: auto;">
 </div>
-
+Welcome! On this site you will find all information about the European Workshop on Reinforcement Learning (EWRL) series.
 
 This website is intended as a replacement of the [historical EWRL website](https://ewrl.wordpress.com/).
 
