@@ -2,11 +2,6 @@
 
 Welcome! On this site you will find all information about the European Workshop on Reinforcement Learning (EWRL) series.
 
-<div style="position: absolute; top: 10px; right: 10px;">
-    <img src="png-transparent-eu-flag-icon-thumbnail.png" alt="EWRL Logo" style="width: 100px; height: auto;">
-</div>
-
-
 This website is intended as a replacement of the [historical EWRL website](https://ewrl.wordpress.com/).
 
 [EWRL18](https://euro-workshop-on-reinforcement-learning.github.io/ewrl18) will be held in Tuebingen, Germany!  
