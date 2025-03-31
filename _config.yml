@@ -23,6 +23,7 @@ title: European Workshop On Reinforcement Learning
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ewrl
+repository: nuria95/test_home_ewrl.github.io
 # github_username:  jekyll
 logo: assets/img/org-eu-circle-01-S.png
 logo2: assets/img/logo-markus.png
