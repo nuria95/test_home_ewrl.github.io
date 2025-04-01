@@ -25,8 +25,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ewrl
 repository: nuria95/test_home_ewrl.github.io
 # github_username:  jekyll
-logo: assets/img/org-eu-circle-01-S.png
-logo2: assets/img/logo-markus.png
+# logo2: assets/img/org-eu-circle-01-S.png
+logo: assets/img/eu_markus.png
 # Build settings
 markdown: kramdown
 theme: minima
